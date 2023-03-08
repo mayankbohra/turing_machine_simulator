@@ -1,4 +1,4 @@
-<h2 align="center">Turing Machine Simulator</h2>
+<h1 align="center">Turing Machine Simulator</h1>
 
 <hr>
 
@@ -15,7 +15,10 @@ The four languages that can be recognized by the Turing machine are:
 The implementation uses four different functions to determine whether a given string is accepted by the Turing machine for each of the four languages. These functions implement the state transitions for each of the languages, and return True if the string is accepted and False otherwise. The implementation also includes functions to create each of the three pages (welcome, options, and input/results), as well as functions to restart the program or exit.
 
 Overall, this is a simple but effective implementation of a Turing machine simulator that uses tkinter to provide a user-friendly interface.
+</p>
 
+<p style="font-family:Helvetica; font-size:16px">
+<a href="https://github.com/mayankbohra/turing_machine_simulator/tree/main/application_images">See the images of the simulator</a>
 </p>
 
 <hr>
